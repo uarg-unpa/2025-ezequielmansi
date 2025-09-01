@@ -1,0 +1,10 @@
+mascota(perro,fido).
+mascota(gato,whiskers).
+mascota(perro,rex).
+dueno(juan,fido).
+dueno(juan,canario).
+dueno(ana,whiskers).
+dueno(pedro,rex).
+color(fideo,marron).
+color(whiskers,gris).
+color(rex,negro).
