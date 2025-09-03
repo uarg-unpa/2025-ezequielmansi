@@ -1,7 +1,7 @@
 % HECHOS
 pelicula(inception,ciencia_ficcion). % Inception es una pelicula de ciencia ficcion
 pelicula(forrest_gump,drama).
-pelicula(life_is_beautiful,drama). % corregí el nombre de live_is_beatiful -> life_is_beautiful
+pelicula(life_is_beautiful,drama). 
 pelicula(argentina_1985,drama).
 pelicula(jurassic_park,aventura).
 pelicula(interstellar,ciencia_ficcion).
